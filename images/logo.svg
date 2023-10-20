@@ -1,0 +1,5 @@
+<svg id="Logo_Component" data-name="Logo Component" xmlns="http://www.w3.org/2000/svg" width="214" height="148" viewBox="0 0 214 148">
+  <path id="Icon_material-restaurant-menu" data-name="Icon material-restaurant-menu" d="M20,34.958l8.39-8.39L7.579,5.787a11.881,11.881,0,0,0,0,16.779Zm20.1-5.366c4.536,2.1,10.909.623,15.623-4.091,5.662-5.662,6.759-13.785,2.4-18.143C53.8,3.03,45.673,4.1,39.981,9.759c-4.714,4.714-6.2,11.087-4.091,15.623L6.956,54.316l4.18,4.18L31.562,38.13l20.4,20.4,4.18-4.18-20.4-20.4Z" transform="translate(60.758 44.8)" fill="#fff"/>
+  <text id="Code_Ndure" data-name="Code Ndure" transform="translate(0 45)" fill="#fff" font-size="50" font-family="Ephesis-Regular, Ephesis" letter-spacing="0.025em"><tspan x="0" y="0">Code Ndure</tspan></text>
+  <text id="Restaurant" transform="translate(1 128)" fill="#fff" font-size="50" font-family="Ephesis-Regular, Ephesis" letter-spacing="0.025em"><tspan x="0" y="0">Restaurant</tspan></text>
+</svg>
