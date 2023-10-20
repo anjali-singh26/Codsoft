@@ -1,0 +1,168 @@
+body {
+    font-family: 'poppins', sans-serif;
+    background-color: #000;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.calculator {
+    background: linear-gradient(to bottom right, #006699, #000044);
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.output {
+    font-size: 48px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+}
+
+button {
+    font-size: 28px;
+    padding: 15px;
+    border: none;
+    background-color: #333;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+button:active {
+    background-color: #444;
+}
+
+/* Styling for operators and equal sign */
+button.operator,
+button.equals {
+    background-color: #ff9500;
+    color: #222;
+}
+
+button.operator:hover,
+button.equals:hover {
+    background-color: #ffaa33;
+}
+
+button.operator:active,
+button.equals:active {
+    background-color: #cc7a00;
+}
+
+/* Styling for the clear button */
+button.clear {
+    background-color: #4caf50;
+}
+
+button.clear:hover {
+    background-color: #67d166;
+}
+
+button.clear:active {
+    background-color: #3d893e;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #d6b44efb;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.calculator {
+    background: linear-gradient(to bottom right, #006699, #000044);
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.output {
+    font-size: 48px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+}
+
+button {
+    font-size: 28px;
+    padding: 15px;
+    border: none;
+    background-color: #0e0c0c;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #777;
+}
+
+button:active {
+    background-color: #444;
+}
+
+/* Styling for operators and equal sign */
+button.operator,
+button.equals {
+    background-color: #ff9500;
+    color: #222;
+}
+
+button.operator:hover,
+button.equals:hover {
+    background-color: #ffaa33;
+}
+
+button.operator:active,
+button.equals:active {
+    background-color: #cc7a00;
+}
+
+/* Styling for the clear button */
+button.clear {
+    background-color: #4caf50;
+}
+
+button.clear:hover {
+    background-color: #67d166;
+}
+
+button.clear:active {
+    background-color: #3d893e;
+}
